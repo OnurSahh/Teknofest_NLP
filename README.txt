@@ -1,3 +1,5 @@
+#Acikhack2023
+
 TEKNOFEST_train.ipynb WAS USED FOR FINE TUNING A TURKISH BERT MODEL.
 
 All necessary libraries are:
