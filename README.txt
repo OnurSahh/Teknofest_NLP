@@ -2,11 +2,6 @@
 
 TEKNOFEST_train.ipynb WAS USED FOR FINE TUNING A TURKISH BERT MODEL.
 
-All necessary libraries are:
+Huggingface model link can be found in the "model link.txt" file.
 
-!pip install transformers
-!pip install tensorflow
-!pip install translate
-!pip install evaluate
-!pip install torch
-!pip install optimum
+Required libraries can be seen in the "requirements.txt" file
