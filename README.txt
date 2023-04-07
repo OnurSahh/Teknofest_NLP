@@ -1,6 +1,6 @@
 #Acikhack2023
 
-TEKNOFEST_train.ipynb WAS USED FOR FINE TUNING A TURKISH BERT MODEL.
+TEKNOFEST_train.ipynb was used for fine tuning a turkish bert model.
 
 Fine tuned huggingface model link can be found in the "model link.txt" file.
 
