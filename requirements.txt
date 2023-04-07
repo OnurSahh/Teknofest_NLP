@@ -1,0 +1,6 @@
+transformers
+tensorflow
+translate
+evaluate
+torch
+optimum
