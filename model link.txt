@@ -1,1 +1,8 @@
 https://huggingface.co/OnurSahh/teknofest_nlp_finetuned_tddi
+
+
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+
+tokenizer = AutoTokenizer.from_pretrained("OnurSahh/teknofest_nlp_finetuned_tddi")
+
+model = AutoModelForSequenceClassification.from_pretrained("OnurSahh/teknofest_nlp_finetuned_tddi")
