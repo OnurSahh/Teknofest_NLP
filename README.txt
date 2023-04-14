@@ -29,6 +29,8 @@ Epochs / Training Loss / Validation Loss / Accuracy
 
 The presentation can be seen above. "SIGMOID TDDİ SUNUMU"
 
+Demo Video Link: https://drive.google.com/file/d/1gNdrfvz2DJ2UKjXI2EXZxiOf26cvBKro/view?usp=sharing
+
 TEKNOFEST_train.ipynb was used for fine tuning a turkish bert model.
 
 Fine tuned huggingface model link can be found in the "model link.txt" file.
