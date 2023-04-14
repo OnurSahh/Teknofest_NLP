@@ -27,6 +27,7 @@ Epochs / Training Loss / Validation Loss / Accuracy
    
 |||
 
+The presentation can be seen above. "SIGMOID TAKIMI TDDİ SUNUMU"
 
 TEKNOFEST_train.ipynb was used for fine tuning a turkish bert model.
 
